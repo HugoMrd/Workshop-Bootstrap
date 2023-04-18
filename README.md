@@ -42,4 +42,4 @@ Ce dernier exercice va vous permettre d'aborder... Un formulaire de connexion Re
 ![ex4](ex4/ex4screen.png)
 
 ### **MERCI**
-Merci d'avoir suivis ce Workshop vous avez maintenant de très bonne base pour faire un site web avec le framework Bootstrap. À vous de jouer pour crée votre propre site Web !
+Merci d'avoir suivis ce Workshop vous avez maintenant de très bonne base pour faire un site web avec le framework Bootstrap. À vous de jouer pour crée votre propre site Web ! 
