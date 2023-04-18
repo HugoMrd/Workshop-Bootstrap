@@ -19,7 +19,7 @@ Vous trouverez chaque exercices dans les fichiers nommé (ex1/exercice1, ex2/exe
 ## **STEP 1: Créer une page de destination responsive**
 Le but de l'exercice est de completer le code afin de rendre une page responsive. TIPS: (container-fluid).
 Le résultat final de ce premier exercice devrait plus ou moins ressembler à ceci:
-![ex1](ex1/x1screen.png)
+![ex1](ex1/ex1screen.png)
 
 ## **Documentation**
 Pour vous documenter sur bootstrap vous pouvez tout simplement vous rendre sur le site Web de bootstrap : https://getbootstrap.com/
