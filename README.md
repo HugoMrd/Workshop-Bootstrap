@@ -11,7 +11,7 @@ Bootstrap est largement utilisé dans l'industrie du web en raison de sa facilit
 ## **STEP 0: Installation**
 
 Aujourd'hui aucune installation ne sera nécéssaire, nous inlurons tout simplement le framework bootstrap grâce à cette ligne :
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 ## **STEP 1: Créer une page de destination responsive**
 Le but de l'exercice est de completer le code qui se trouve dans le fichier exercice 1 afin de rendre une page responsive. TIPS: (container-fluid)
