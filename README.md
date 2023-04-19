@@ -38,11 +38,11 @@ Voici un début de code afin d'importer des images déjà existantes:
 Il ne faut pas oublier que ce morceau de code se trouvera dans une `<div>`
 
 ## **STEP 4: Utiliser les icônes Bootstrap**
-Dans ce quatrième exercice vous allez apprendre à ajouter des icônes à votre page en utilisant la bibliothèque d'icônes de Bootstrap 5. Les icons que vous allez créer devront avoir comme id "linkedin", "github", "book" pour pouvoir s'adapter au fichier css fournit. Compléter le code. Le résultat final doit ressembler à ceci :
+Dans ce quatrième exercice, vous allez apprendre à ajouter des icônes à votre page en utilisant la bibliothèque d'icônes de Bootstrap 5. Les icons que vous allez créer devront avoir comme id "linkedin", "github", "book" pour pouvoir s'adapter au fichier css fournit. Compléter le code. Le résultat final doit ressembler à ceci :
 ![ex4](ex4/ex4screen.png)
 
 ## **STEP 5: Créer un menu déroulant**
-Dans ce cinquième et avant dernier exercice vous allez Créez un menu déroulant en utilisant les classes Bootstrap pour afficher une liste de choix dans un menu déroulant. Il faut savoir qu'un morceau de code existe déjà en javascript et css, il n'y a aucun intérêt à les modifier. Compléter le code. Le résultat final doit ressembler à ceci :
+Dans ce cinquième et avant dernier exercice vous allez créer un menu déroulant en utilisant les classes Bootstrap pour afficher une liste de choix dans un menu déroulant. Il faut savoir qu'un morceau de code existe déjà en javascript et css, il n'y a aucun intérêt à les modifier. Compléter le code. Le résultat final doit ressembler à ceci :
 ![ex5](ex5/ex5screen.png)
 
 ## **STEP FINAL:  Créer une page de connexion avec une modale**
