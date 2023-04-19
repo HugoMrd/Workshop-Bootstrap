@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Menu déroulant avec Bootstrap et JavaScript</title>
+	<!-- Liens vers les fichiers CSS de Bootstrap -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<!-- Liens vers le fichier CSS personnalisé -->
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="container">
+		<h1>Menu déroulant avec Bootstrap et JavaScript</h1>
+		<p>Sélectionnez une option dans le menu déroulant :</p>
+		<!-- Menu déroulant Bootstrap -->
+		<select id="options" class="form-control">
+			<option value="1">Option 1</option>
+			<option value="2">Option 2</option>
+			<option value="3">Option 3</option>
+			<option value="4">Option 4</option>
+			<option value="5">Option 5</option>
+		</select>
+		<div id="resultat"></div>
+	</div>
+
+	<!-- Liens vers les fichiers JavaScript de Bootstrap -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	<!-- Script JavaScript pour le menu déroulant -->
+	<script>
+		// Récupération de l'élément select
+		var options = document.getElementById("options");
+
+		// Ajout d'un événement pour réagir à la sélection de l'utilisateur
+		options.addEventListener("change", function() {
+			// Récupération de la valeur sélectionnée
+			var valeur = options.value;
+			// Modification du contenu de la div resultat
+			document.getElementById("resultat").innerHTML = "Vous avez sélectionné l'option " + valeur;
+		});
+	</script>
+</body>
+</html>
